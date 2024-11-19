@@ -38,7 +38,7 @@ body{
 }
 
 .star img{
-    padding: 0.5rem;
+    padding: 0.9rem;
     background:var(--Medium-Grey);
     border-radius: 50%;
 }
@@ -65,8 +65,8 @@ ul{
 }
 
 .button{
-    width: 3rem;
-    height: 3rem;
+    width: 3.5rem;
+    height: 3.5rem;
     border: none;
     font-weight: 700;
     color: var(--White);
@@ -92,7 +92,7 @@ button:focus{
     cursor: pointer;
     background-color: var(--Orange);
     width: 100%;
-    padding: 0.5rem 0 0.4rem;
+    padding: 0.9rem 0 0.8rem;
     border-radius: 2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
