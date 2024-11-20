@@ -31,7 +31,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: var(--Dark-Blue);
-    border-radius: .65rem;
+    border-radius: 2rem;
     padding: 1.5rem;
     max-width: 410px;
     margin: 2rem;
